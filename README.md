@@ -29,7 +29,7 @@ MiladAzad is new redesigned version from Milad typeface by Reza Bakhtiari fard.
 
 
 Version : 0.0.3
-Demo : [here](http://font-store.github.io/MiladAzad/online/)
+Demo : [here](http://font-store.github.io/font-MiladAzad/online/)
 
 
 ------
