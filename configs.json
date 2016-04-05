@@ -1,0 +1,33 @@
+{
+	"rfb": "1",
+	"fontName":  "MiladAzad",
+	"fontVersion": "0.0.3",
+	"fontMeta": {
+        "Copyright": "Copyright (c) 2016 Copyright Holder Persian Font Store (info@font-store.ir), with Reserved Font Name \"MiladAzad\"",
+        "License": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
+        "LicenseURL": "http://scripts.sil.org/OFL",
+        "Designer": "Reza bakhtiari fard",
+        "DesignerURL": "http://bakhtiarifard.ir/",
+        "Trademark": "MiladAzad is a Trademark of Persian Font Store"
+	},
+    "fontWeights": {
+        "Regular": {
+            "src": "MiladAzad-Regular.sfd"
+        }
+    },
+	"dirs": {
+		"src": "sources",
+		"dist": "dist",
+		"watching": "watching",
+        "svg": "svg",
+        "temp": "tmp"
+	},
+    "automation":{
+        "engine": "ff",
+        "autoCreate": true,
+        "autoMark": true,
+        "autoMarkMode": "build",
+        "autoKern": true,
+        "autoKernMode": "build"        
+    }    
+}
