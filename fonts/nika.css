@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'TestFont';
+    src: url('MiladAzad-Regular.woff2') format('woff2'),
+    url('MiladAzad-Regular.woff') format('woff'),
+    url('MiladAzad-Regular.otf') format('opentype') ,
+    url('MiladAzad-Regular') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
